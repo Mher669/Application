@@ -1,3 +1,7 @@
 This is FileB
+<<<<<<< HEAD
 change for githb
 change to file b
+=======
+esi featurei changena 
+>>>>>>> FeatureA
